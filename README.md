@@ -15,7 +15,7 @@ Dalam proyek ini, model yang dibangun bertujuan untuk mengenali karakter tulisan
 
 Hasil evaluasi model disajikan dalam bentuk **confusion matrix** di bawah ini, yang menunjukkan tingkat akurasi klasifikasi karakter yang dicapai oleh model.
 
-![Confusion Matrix](pic\confusion-matrix.png)
+![Confusion Matrix](images/confusion-matrix.png)
 
 ## Cara Menggunakan
 
