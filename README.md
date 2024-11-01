@@ -33,3 +33,18 @@ Hasil evaluasi model disajikan dalam bentuk **confusion matrix** di bawah ini, y
 Untuk penjelasan lebih lanjut mengenai program yang terdapat dalam notebook ini, Anda dapat menonton video berikut:
 [Penjelasan Program di YouTube](https://www.youtube.com/watch?v=EyTsiTJ_BXI&t=2s)
 
+## Biodata
+
+**Nama**: Habib Sulaiman 
+**Universitas/Institusi**: Politeknik Negeri Batam  
+**Prodi**: Mekatronika  
+**Kelas**: MK 5B Pagi
+
+## Kontak
+
+- **Email**: [Habibsulaiman816@gmail.com](mailto:Habibsulaiman816@gmail.com)
+- **LinkedIn**: [linkedin.com/in/habib-sulaiman](https://www.linkedin.com/in/habib-sulaiman)
+- **GitHub**: [github.com/KacangSoya](https://github.com/KacangSoya)
+
+---
+
