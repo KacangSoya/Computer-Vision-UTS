@@ -35,10 +35,11 @@ Untuk penjelasan lebih lanjut mengenai program yang terdapat dalam notebook ini,
 
 ## Biodata
 
-**Nama**: Habib Sulaiman 
+**Nama**: Habib Sulaiman  
 **Universitas**: Politeknik Negeri Batam  
 **Prodi**: Mekatronika  
-**Kelas**: MK 5B Pagi
+**Kelas**: MK 5B Pagi  
+
 
 ## Kontak
 
